@@ -1,2 +1,2 @@
-import streamlit as st
-import pandas as pd
+import streamlit ==0.68.1
+import pandas ==0.25.3
