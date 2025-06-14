@@ -1,9 +1,6 @@
-
-##pip install git+https://github.com/pyronear/pyro-risks
 import streamlit as st
 import pandas as pd
-import folium
-# Let's read VIIRS csv sample data set into a DataFrame df GOES-R,VIIRS_NOAA21_NRT,VIIRS_S_NPP,Météosat
+
 st.set_page_config(
     page_title="Real-Time Data Science Dashboard",
     page_icon="✅",
